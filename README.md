@@ -36,8 +36,8 @@ University of Virginia School of Medicine
 
 ### 2. Feature Engineering
 - Deriving a binary target variable:
-  - `glyhb > 7.0` → **Diabetic**
-  - `glyhb ≤ 7.0` → **Non-diabetic**
+  - `glyhb > 6.5` → **Diabetic**
+  - `glyhb ≤ 6.5` → **Non-diabetic**
 
 ### 3. Model Selection
 The following machine learning models were evaluated:
