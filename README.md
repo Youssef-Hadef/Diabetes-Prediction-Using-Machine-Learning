@@ -80,3 +80,6 @@ git clone [https://github.com/Youssef-Hadef/diabetes-prediction.git]
 ### 2.	Install Dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+```
+# Affiliation:
+University Kasdi Merbah - Ouargla (2024/2025)
